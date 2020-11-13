@@ -6,26 +6,6 @@
     background-color: #355C7D;
 }
 
-h2{
-  position: absolute;
-  top: 0px;
-  right:0px;
-  margin: auto;
-  float: none;
-  width: 140px;
-  height: 35px;
-  border:1px solid black;
-  text-align:center;
-  padding: center;
-  }
-
-h1 {
-  text-align: center;
-  margin-top: 5%;
-  margin-bottom: 5%; 
-}
-
-  
 .section {  
   clear: margin;
   margin-left: 10px;
